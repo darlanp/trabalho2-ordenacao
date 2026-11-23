@@ -1,0 +1,7 @@
+etapa,base,algoritmo,execucoes_disponiveis,media_s,desvio_padrao_s,erro_relativo_obtido,erro_relativo_alvo,confianca,z,execucoes_necessarias
+0,piloto,QuickSort_Recursivo,30,0.280619,0.101791,0.1298,0.05,0.95,1.959964,203
+0,piloto,QuickSort_Iterativo,30,0.296487,0.093199,0.1125,0.05,0.95,1.959964,152
+0,piloto,MergeSort,30,0.413123,0.161655,0.1400,0.05,0.95,1.959964,236
+1,principal,QuickSort_Recursivo,236,0.269877,0.099390,0.0470,0.05,0.95,1.959964,209
+1,principal,QuickSort_Iterativo,236,0.304262,0.097996,0.0411,0.05,0.95,1.959964,160
+1,principal,MergeSort,236,0.420946,0.128657,0.0390,0.05,0.95,1.959964,144

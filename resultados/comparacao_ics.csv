@@ -1,0 +1,4 @@
+algoritmo_a,algoritmo_b,ic_a,ic_b,intervalos_se_sobrepoem,conclusao
+QuickSort_Recursivo,QuickSort_Iterativo,[0.2571; 0.2826],[0.2917; 0.3168],False,A mais rápido
+QuickSort_Recursivo,MergeSort,[0.2571; 0.2826],[0.4044; 0.4374],False,A mais rápido
+QuickSort_Iterativo,MergeSort,[0.2917; 0.3168],[0.4044; 0.4374],False,A mais rápido

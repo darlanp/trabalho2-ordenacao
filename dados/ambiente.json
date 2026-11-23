@@ -1,0 +1,10 @@
+{
+  "data": "2026-11-23T08:58:22",
+  "python": "3.14.7",
+  "implementacao": "CPython",
+  "sistema": "Windows 11 (10.0.26200)",
+  "processador": "Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz",
+  "semente": 2026,
+  "memoria_gb": "15.8",
+  "controle_processo": "prioridade alta, afinidade ao núcleo lógico 1"
+}
